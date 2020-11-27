@@ -459,3 +459,28 @@ p{
       align-items: center;
       text-align: center;
   }
+  .exp_card_img{
+      width: 300px;
+      height: 300px;
+      margin-top: 20px;
+      border: 5px solid #ac4b1c;
+  }
+  .exp-card{
+    font-family: 'Arya', sans-serif;
+    text-align: justify;
+    color: #150485;
+  }
+  .exp_name{
+      text-align: right;
+      color: #DE4313;
+  }
+  .exp-card-3{
+      font-size: 31px;
+  }
+  .card_youtube_frame{
+     /* background-color: #f0a500;*/
+      border: 0px solid #f0a500;
+  }
+  .iframae_border{
+    border: 5px solid #f0a500;
+  }

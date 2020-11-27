@@ -30,7 +30,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="admin_signup.php">संयोजक (Admin)</a>
+        <a class="nav-link" href="experiences.php">प्रतिभागी स्वानुभव</a>
       </li>
     </ul>
   </div>

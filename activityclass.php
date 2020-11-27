@@ -126,7 +126,7 @@
         </div>
 
         <div class="card-columns">
-            <div class="card cards_in_pattern">
+            <div class="card text-center cards_in_pattern">
                 <div class="card-body">
                     <img src="src/img/ram_kaushalya.jpg" class="activity_design_cards_img_1">
                 </div>
@@ -150,15 +150,13 @@
                     <img src="src/img/lakshmibai.jpg" class="activity_design_cards_img_3">
                 </div>
             </div>
-            <div class="card text-center cards_in_pattern">
+            <!--<div class="card text-center cards_in_pattern">
                 <img src="src/img/bharat.jpg" class="activity_design_cards_img_3">
-            </div>
+            </div>-->
             <div class="card p-3 text-center cards_in_pattern">
                 <img src="src/img/bharat.jpg" class="activity_design_cards_img_3">
             </div>
-            <div class="card">
-               
-            </div>
+            
             </div>        
 
     </div>
